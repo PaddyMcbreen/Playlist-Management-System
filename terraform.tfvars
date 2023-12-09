@@ -1,1 +1,1 @@
-spotify_api_key = "..."
+spotify_api_key = "Enter your API key from running the Docker command"
